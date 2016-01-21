@@ -1,0 +1,33 @@
+/*
+Here comes the text of your license
+Each line should be prefixed with 
+*/
+/* 
+    Created on : Apr 24, 2015, 5:02:47 PM
+    Author     : Swetha
+*/
+
+h3,h2{
+    font-family: cursive;
+    color: green;
+    align: center;
+}
+a{
+    color: #e97171;
+    font-weight: bold;
+    font-family: inherit;
+    text-decoration: none;
+    alignment-adjust: middle;
+}
+a:hover{
+    text-decoration: underline;
+    color: cadetblue;
+}
+#sub{
+    alignment-adjust: middle;
+    background-color: MediumTurquoise ;
+    padding: 20px;
+    border-radius: 25px;
+    align: center;
+}
+
